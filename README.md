@@ -1,7 +1,9 @@
+# Experiment No. 2
+
 <H3>Name : KEERTHI VASAN A</H3>
 <H3>Register no. 212222240048</H3>
 <H3>Date</H3>
-<H3>Experiment No. 2 </H3>
+
 ## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
