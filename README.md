@@ -120,13 +120,13 @@ plt.show()
 # OUTPUT:
 
 ### Dataset:
-![m1](https://github.com/LATHIKESHWARAN/Experiment-2--Implementation-of-Perceptron/assets/119393556/86a5e0b2-2356-40de-8de8-a515664daa1e)
+![image](https://github.com/user-attachments/assets/4873e4b1-26ab-43aa-9f91-257b1e86990d)
 ### Scatter plot:
-![m2](https://github.com/LATHIKESHWARAN/Experiment-2--Implementation-of-Perceptron/assets/119393556/262dfc66-5c17-4d6b-9908-72121253d817)
+![image](https://github.com/user-attachments/assets/670b25d2-574b-4580-b6d4-e4f3c2430e78)
 ### Error plot:
-![m3](https://github.com/LATHIKESHWARAN/Experiment-2--Implementation-of-Perceptron/assets/119393556/00f15454-c422-4703-a9b1-7a5ae3e35f49)
+![Screenshot 2024-09-13 153948](https://github.com/user-attachments/assets/7e575e4c-96b5-45a5-adc5-0ee029d73a71)
 ### Accuracy:
-![m4](https://github.com/LATHIKESHWARAN/Experiment-2--Implementation-of-Perceptron/assets/119393556/b911574b-b1d5-4189-a57b-dcddf0fdacdb)
+![image](https://github.com/user-attachments/assets/4e6f7649-4f33-4b1d-891c-b59385802e73)
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
